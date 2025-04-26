@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Shawky</h1>
-<h4 align="left">I'm a front-end developer with a strong grasp of HTML5, CSS3, and JavaScript and expertise in tools like Bootstrap, Sass, and Webpack. I’m passionate about creating responsive, accessible websites that offer seamless user experiences, supporting both LTR and RTL layouts for global reach.</h3>
-<h4 align="left">I enjoy turning designs into fully functional websites, ensuring the code is clean, efficient, and maintainable. I’m always learning and exploring new technologies, currently deepening my knowledge of React.js to enhance my front-end development skills.</h3>
+<h4 align="left">I'm a front-end developer focused on building responsive, accessible, and user-friendly web applications. My current skill set includes JavaScript, Bootstrap, Sass, and Webpack, and I'm actively deepening my knowledge of JavaScript fundamentals, with the goal of moving into React and modern front-end frameworks.</h3>
+<h4 align="left">I enjoy turning designs and ideas into clean, efficient, and maintainable code, while ensuring seamless experiences across devices and supporting both LTR and RTL layouts for diverse audiences.
+
+I'm passionate about continuous learning and improving as a developer — whether it’s refining performance, enhancing accessibility, or exploring better ways to structure and scale front-end projects.</h3>
 
 - 📫 How to reach me **abdulrahman.shawkym@gmail.com**
 
