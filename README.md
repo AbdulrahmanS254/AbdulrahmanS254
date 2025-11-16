@@ -47,7 +47,7 @@ Beyond development, I'm also a **coach and mentor** for students (ages 10-18) in
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" alt="vite" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vite" width="40" height="40"/>
   </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> 
@@ -88,7 +88,7 @@ Beyond development, I'm also a **coach and mentor** for students (ages 10-18) in
       <p align="center">
         <b>Tech:</b> React, Vite, @dnd-kit, CSS
         <br/><br/>
-        <a href="httpsS://github.com/AbdulrahmanS254/React-To-Do" target="_blank"><b>View Code →</b></a>
+        <a href="https://github.com/AbdulrahmanS254/React-To-Do" target="_blank"><b>View Code →</b></a>
       </p>
     </td>
   </tr>
