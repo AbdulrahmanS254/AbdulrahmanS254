@@ -15,7 +15,7 @@ I have a solid foundation in **JavaScript**, **HTML**, and **CSS (Sass, Bootstra
 Beyond development, I'm also a **coach and mentor** for students (ages 10-18) in web development and EV3 robotics, guiding teams in international competitions. This experience has been invaluable for strengthening my leadership and communication skills.
 
 - 📫 How to reach me: **abdulrahman.shawkym@gmail.com**
-- 🔗 LinkedIn: **[www.linkedin.com/in/abdulrahman-shawky-0065ba230]** (مهم جداً تضيفه)
+- 🔗 LinkedIn: **[www.linkedin.com/in/abdulrahman-shawky-0065ba230](https://www.linkedin.com/in/abdulrahman-shawky-0065ba230)**
 
 ---
 
@@ -31,11 +31,9 @@ Beyond development, I'm also a **coach and mentor** for students (ages 10-18) in
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
   </a> 
-  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
@@ -45,7 +43,6 @@ Beyond development, I'm also a **coach and mentor** for students (ages 10-18) in
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -67,8 +64,8 @@ Beyond development, I'm also a **coach and mentor** for students (ages 10-18) in
     <td width="50%" valign="top">
       <h3 align="center">Ferrous React Store</h3>
       <p align="center">
-        <a href="[Link]" target="_blank">
-          <img src="[https://raw.githubusercontent.com/AbdulrahmanS254/Ferrous-react-store/refs/heads/main/screenshot.png]" alt="Ferrous E-commerce Store" width="100%">
+        <a href="#" target="_blank">
+          <img src="https://raw.githubusercontent.com/AbdulrahmanS254/Ferrous-react-store/refs/heads/main/screenshot.png" alt="Ferrous E-commerce Store" width="100%">
         </a>
       </p>
       <p>A full-featured e-commerce storefront built with React. The app includes API data fetching, multi-page routing, client-side pagination, and a complete shopping cart.</p>
@@ -76,14 +73,14 @@ Beyond development, I'm also a **coach and mentor** for students (ages 10-18) in
       <p align="center">
         <b>Tech:</b> React, React Router, Context API, Tailwind CSS
         <br/><br/>
-        <a href="[https://github.com/AbdulrahmanS254/Ferrous-react-store]" target="_blank"><b>View Code →</b></a>
+        <a href="https://github.com/AbdulrahmanS254/Ferrous-react-store" target="_blank"><b>View Code →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Advanced To-Do App</h3>
       <p align="center">
-        <a href="[LINK_TO_YOUR_PROJECT_DEMO]" target="_blank">
-          <img src="[https://raw.githubusercontent.com/AbdulrahmanS254/React-To-Do/refs/heads/main/screen-capture.png]" alt="To-Do App" width="100%">
+        <a href="#" target="_blank">
+          <img src="https://raw.githubusercontent.com/AbdulrahmanS254/React-To-Do/refs/heads/main/screen-capture.png" alt="To-Do App" width="100%">
         </a>
       </p>
       <p>An interactive task manager that goes beyond a simple to-do list. This project was my first deep dive into complex state logic and third-party libraries in React.</p>
@@ -91,7 +88,7 @@ Beyond development, I'm also a **coach and mentor** for students (ages 10-18) in
       <p align="center">
         <b>Tech:</b> React, Vite, @dnd-kit, CSS
         <br/><br/>
-        <a href="[https://github.com/AbdulrahmanS254/React-To-Do]" target="_blank"><b>View Code →</b></a>
+        <a href="httpsS://github.com/AbdulrahmanS254/React-To-Do" target="_blank"><b>View Code →</b></a>
       </p>
     </td>
   </tr>
